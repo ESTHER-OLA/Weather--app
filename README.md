@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/ESTHER-OLA/weather-app)
+- [Solution URL](https://github.com/ESTHER-OLA/Weather--app)
 - [Live Site URL](https://clever-platypus-4e324f.netlify.app/)
 
 ## My process
